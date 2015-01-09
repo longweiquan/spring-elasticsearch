@@ -1,0 +1,25 @@
+/target/
+/data/
+
+# Eclipse
+.settings/
+.classpath
+.project
+.tmp
+
+# IntelliJ
+*.iml
+.idea/*
+
+# NodeJS
+node
+node_modules
+
+# Bower
+src/main/webapp/bower_components
+
+# generated files
+src/main/webapp/dist
+
+# Mac
+.DS_Store
